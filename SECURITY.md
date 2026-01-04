@@ -28,11 +28,9 @@ Instead, report it responsibly by:
 
 Creating a private report to the repository maintainer
 OR
-
 Opening an issue clearly marked as [SECURITY] without exposing sensitive details
 
 When reporting, please include:
-
 The affected link or resource
 Description of the issue
 Why it may be harmful or misleading

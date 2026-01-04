@@ -7,7 +7,7 @@ It does not host executable code, user data, or sensitive credentials.
 
 However, maintaining trust, safety, and integrity of shared resources is extremely important. This policy explains how security-related concerns are handled.
 
-🛡️ Supported Scope
+## 🛡️ Supported Scope
 
 Security considerations for this repository include:
 

@@ -1,6 +1,6 @@
 # Security Policy
 
-📌 Purpose
+## 📌 Purpose
 
 This repository is a curated list of free certification resources.
 It does not host executable code, user data, or sensitive credentials.

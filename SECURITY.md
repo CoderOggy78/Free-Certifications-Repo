@@ -12,7 +12,6 @@ However, maintaining trust, safety, and integrity of shared resources is extreme
 Security considerations for this repository include:
 
 Malicious or misleading links
-
 Phishing or scam certification platforms
 Broken or hijacked URLs
 Content that violates open-source or legal standards

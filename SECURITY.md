@@ -23,7 +23,9 @@ If you find a security concern, please do not open a public issue.
 Instead, report it responsibly by:
 
 Creating a private report to the repository maintainer
+
 OR
+
 Opening an issue clearly marked as [SECURITY] without exposing sensitive details
 
 When reporting, please include:

@@ -14,7 +14,6 @@ Security considerations for this repository include:
 Malicious or misleading links
 
 Phishing or scam certification platforms
-
 Broken or hijacked URLs
 Content that violates open-source or legal standards
 Any resource that may pose a risk to users

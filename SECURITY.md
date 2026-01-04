@@ -21,7 +21,7 @@ Content that violates open-source or legal standards
 
 Any resource that may pose a risk to users
 
-🚨 Reporting a Security Issue
+## 🚨 Reporting a Security Issue
 
 If you find a security concern, please do not open a public issue.
 
@@ -35,7 +35,6 @@ Opening an issue clearly marked as [SECURITY] without exposing sensitive details
 When reporting, please include:
 
 The affected link or resource
-
 Description of the issue
 Why it may be harmful or misleading
 Any supporting evidence (screenshots or references, if available)

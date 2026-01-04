@@ -37,7 +37,6 @@ When reporting, please include:
 The affected link or resource
 
 Description of the issue
-
 Why it may be harmful or misleading
 Any supporting evidence (screenshots or references, if available)
 

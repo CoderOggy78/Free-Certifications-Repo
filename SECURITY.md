@@ -51,7 +51,6 @@ Verified issues will result in:
 Immediate removal or correction of the resource
 
 Updates to documentation if needed
-
 The reporter will be acknowledged (if appropriate)
 
 ## 🔍 Proactive Safety Measures

@@ -47,7 +47,6 @@ Any supporting evidence (screenshots or references, if available)
 Reports will be reviewed as soon as possible
 
 Verified issues will result in:
-
 Immediate removal or correction of the resource
 Updates to documentation if needed
 The reporter will be acknowledged (if appropriate)

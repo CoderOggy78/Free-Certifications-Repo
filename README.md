@@ -82,7 +82,7 @@ This repository is designed for:
 No matter where you’re starting from, **growth starts here**.
 
 
-🤝 How You Can Contribute
+## 🤝 How You Can Contribute
 
 This is a **community-powered** initiative.
 
@@ -93,7 +93,7 @@ You can help by:
 * Improving descriptions
 * Fixing typos or formatting
 
-Please read **CONTRIBUTING.md** before submitting a pull request.
+## Please read **CONTRIBUTING.md** before submitting a pull request.
 
 > Even a single link can change someone’s future. 🌱
 

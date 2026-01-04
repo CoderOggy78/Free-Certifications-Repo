@@ -42,7 +42,7 @@ Why it may be harmful or misleading
 
 Any supporting evidence (screenshots or references, if available)
 
-⏱️ Response & Resolution
+## ⏱️ Response & Resolution
 
 Reports will be reviewed as soon as possible
 

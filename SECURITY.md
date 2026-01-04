@@ -24,7 +24,6 @@ Any resource that may pose a risk to users
 ## 🚨 Reporting a Security Issue
 
 If you find a security concern, please do not open a public issue.
-
 Instead, report it responsibly by:
 
 Creating a private report to the repository maintainer
